@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/trace/!svn/ver/4/trunk/src/main/java/com/huawei/ecm/cqn/asm
+END
+TraceMethodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trace/!svn/ver/4/trunk/src/main/java/com/huawei/ecm/cqn/asm/TraceMethodAdapter.java
+END
+TraceClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trace/!svn/ver/4/trunk/src/main/java/com/huawei/ecm/cqn/asm/TraceClassAdapter.java
+END
+AbstractClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trace/!svn/ver/4/trunk/src/main/java/com/huawei/ecm/cqn/asm/AbstractClassAdapter.java
+END

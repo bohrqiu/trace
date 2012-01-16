@@ -1,0 +1,8 @@
+java执行：java -javaagent:a.jar  test.Main
+eclipse：在vm argument里加入-javaagent:a.jar
+1.实现对定义不同级别的annotation的处理
+
+TODO:提供运行期管理功能，jmx、web接口
+TODO:提供日志功能，也就是统计数据的保存
+TODO:测试web容器加载(jdk6自带)，重新加载对统计的影响
+TODO:处理代码行数信息丢失bug

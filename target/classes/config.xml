@@ -1,0 +1,7 @@
+<trace>
+	<scanPackage>com.huawei,test</scanPackage>
+	<jmxListenPort>10000</jmxListenPort>
+	<jmxStartTimeDelay>5</jmxStartTimeDelay>
+	<logLevel>info</logLevel>
+	<logFile></logFile>
+</trace>

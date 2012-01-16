@@ -1,0 +1,15 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 20
+/svn/trace/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/trace/!svn/ver/5/trunk
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/trace/!svn/ver/8/trunk/pom.xml
+END
